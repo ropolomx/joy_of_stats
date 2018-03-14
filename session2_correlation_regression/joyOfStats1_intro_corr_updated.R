@@ -443,7 +443,10 @@ head(iris)
 # Let's go into more real world examples and let's apply the correlation 
 # concepts learned last week.
 
-# Use this to remove all objects from the R global environment if you need to
+# Run this command to remove all objects from the R global environment if you need to
+# You can also click on the broom icon in the environment tab to clear objects from the 
+# workspace
+
 rm(list=ls())
 
 # R can read CSV (comma-separated value) files natively
