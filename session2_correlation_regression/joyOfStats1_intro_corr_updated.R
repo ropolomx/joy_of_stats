@@ -461,7 +461,8 @@ install.packages("readxl", dependencies = TRUE)
 library(readxl)
 
 # You can set a working directory on your computer if you wanted to switch to 
-# a different folder. However, creating a project simplifies this.
+# a different folder. 
+# However, creating a project in RStudio simplifies this, and it is the preferable option.
 # For example
 # setwd("C:/workshop")
 
