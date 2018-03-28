@@ -4,8 +4,8 @@ This repository contains the materials for the Joy of Statistics with R workshop
 
 Workshop instructors:
 
-* Rodrigo Ortega Polo (University of Lethbridge) [ropolomx](www.github.com/ropolomx)
-* Dr. Mohammad Reza Marami Milani (University of Lethbridge) [maramimilani](www.github.com/maramimilani)
+* Rodrigo Ortega Polo (University of Lethbridge) [ropolomx](https://github.com/ropolomx)
+* Dr. Mohammad Reza Marami Milani (University of Lethbridge) [maramimilani](https://github.com/maramimilani)
 
 Sessions
 --------
