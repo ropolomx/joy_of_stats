@@ -2,4 +2,4 @@ Materials for this session were inspired by, partially, or completely reproduced
 
 [Wenjian Fu's biostatistics course](https://msu.edu/~fuw/teaching/EPI809_2008.htm)
 
-[STHDA's correlation matrix tutorial](www.sthda.com/english/wiki/correlation-matrix-a-quick-start-guide-to-analyze-format-and-visualize-a-correlation-matrix-using-r-software)
+[STHDA's correlation matrix tutorial](http://www.sthda.com/english/wiki/correlation-matrix-a-quick-start-guide-to-analyze-format-and-visualize-a-correlation-matrix-using-r-software)
