@@ -1,8 +1,8 @@
 # Session 1
 
-#### Theory: Introduction to Correlation
+### Theory: Introduction to Correlation
 
-#### Practice: Introduction to R and RStudio
+### Practice: Introduction to R and RStudio
 
 Portions on the R code for the introduction to R and RStudio portion of this
 session was inspired by, re-used, or modified from a tutorial previously taught
