@@ -10,7 +10,7 @@ Workshop instructors:
 Sessions
 --------
 
-|[Sesssion 1](session1_intro)                                        |[Session 2](session2_correlation_regression)  |
-|:------------------------------------------------------------------:|:--------------------------------------------:|
-|Theory: **Introduction to correlation**                             | Theory: **Introduction to Linear Regression**|
+|[Sesssion 1](session1_intro)                                        |[Session 2](session2_correlation_regression) |
+|------------------------------------------------------------------|--------------------------------------------|
+|Theory: **Introduction to correlation**                           | Theory: **Introduction to Linear Regression**|
 |Practice: **Introduction to R and RStudio: basic syntax and usage** | Practice: **Plotting correlation matrices and linear regression models**|
