@@ -56,8 +56,6 @@ summary(fit)
 
 # for more information about regsubsets : https://www.rdocumentation.org/packages/leaps/versions/2.1-1/topics/regsubsets
 
-
-
 ####   FactoMineR
 
 regMod <- RegBest(y=as.matrix(DEPENDENT), x = as.matrix(INDEPENDENTS), nbest = 1,method=c("adjr2"))
